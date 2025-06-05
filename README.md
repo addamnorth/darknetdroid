@@ -1,2 +1,0 @@
-# darknetdroid
-the game
